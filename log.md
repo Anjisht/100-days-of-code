@@ -30,9 +30,9 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 ### Day 0: 23rd June, 2025
-**Today's Progress**: 
+**Today's Progress**: <p>
 Worked on object detection and segmentation. Implemented object detection on IDD (Indian Driving Dataset) using YOLOV8 ( mostly overfitted), learned about mAP and IOU metrics in object detection. <br />
-Started working on object segmentation, but had some hurdle due to GPU usage exhaustation on Colab. 
+Started working on object segmentation, but had some hurdle due to GPU usage exhaustation on Colab. </p>
 **Thoughts**: 
-Overthetop library usage was mainly done. Wasn't particularly about how internal of these AI Models work. 
+<p>Overthetop library usage was mainly done. Wasn't particularly about how internal of these AI Models work. </p>
 
