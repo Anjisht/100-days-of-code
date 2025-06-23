@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +28,11 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
+### Day 0: 23rd June, 2025
+**Today's Progress**: 
+Worked on object detection and segmentation. Implemented object detection on IDD (Indian Driving Dataset) using YOLOV8 ( mostly overfitted), learned about mAP and IOU metrics in object detection. <br />
+Started working on object segmentation, but had some hurdle due to GPU usage exhaustation on Colab. 
+**Thoughts**: 
+Overthetop library usage was mainly done. Wasn't particularly about how internal of these AI Models work. 
+
