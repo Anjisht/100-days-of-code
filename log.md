@@ -36,3 +36,8 @@ Started working on object segmentation, but had some hurdle due to GPU usage exh
 **Thoughts**: 
 <p>Overthetop library usage was mainly done. Wasn't particularly about how internal of these AI Models work. </p>
 
+### Day 1: 24th June, 2025
+**Today's Progress**: <p>
+Coded the assignment of Deep Learning Neural Network Course. Wrote code for forward and backpropagation for L layers.</P
+
+
